@@ -1,4 +1,4 @@
-module github.com/go-audio/aiff
+module github.com/chfanghr/aiff
 
 go 1.12
 
